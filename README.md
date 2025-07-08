@@ -47,7 +47,7 @@ javascript
 
 const apiKey = "abcd1234";
 const url = `https://api.openweathermap.org/data/2.5/weather?q=London&appid=${apiKey}&units=metric`;
-🛡️ Error Handling
+error Handling
 Displays alert for:
 
 Invalid city name
@@ -55,11 +55,10 @@ Invalid city name
 Network issues
 
 Empty input
-
-🙋‍♂️ Author
+Author
 Name: Raushan Kumar
 
-GitHub: @yourusername
+GitHub: @raushanrajmahto
 
 📄 License
 This project is licensed under the MIT License
