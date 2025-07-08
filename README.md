@@ -20,7 +20,7 @@ Frontend: HTML5, CSS3, Vanilla JavaScript
 API: OpenWeatherMap API
 
 Screenshot
-(Add your screenshot here)
+(![Screenshot 2025-07-08 134107](https://github.com/user-attachments/assets/cbfd4090-7967-4718-ad06-40573701e545)
 
 How to Use
 Clone the repository:
@@ -58,7 +58,7 @@ Empty input
 Author
 Name: Raushan Kumar
 
-GitHub: @raushanrajmahto
+GitHub: @raushanrajalone
 
 📄 License
 This project is licensed under the MIT License
